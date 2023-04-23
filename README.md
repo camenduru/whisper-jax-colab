@@ -12,5 +12,3 @@
 
 ### Main Repo
 https://github.com/sanchit-gandhi/whisper-jax
-
-## Output
