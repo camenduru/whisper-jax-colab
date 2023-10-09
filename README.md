@@ -13,4 +13,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/whisper-jax-colab/blob/main/whisper_jax_medium_gradio_colab.ipynb) | openai/whisper-medium Free Colab (T4) Gradio
 
 ### Main Repo
+https://github.com/openai/whisper
 https://github.com/sanchit-gandhi/whisper-jax
